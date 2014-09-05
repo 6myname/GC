@@ -1,0 +1,21 @@
+<!DOCTYPE HTML!>
+<HTML>
+<link rel="stylesheet" href="stylesheet.css">
+	<head>
+		<title>Graysonchan!</title> 
+<!-- Need slogan or something and logo -->
+	</head>
+	<body>
+		<div class="infoboxbar">
+			<h1>What is Graysonchan?</h1>
+		<div class="infoboxcontent">
+			<p class="one">Graysonchan is a image board based off 4chan, for use of the residents of the Grayson County area. Anyone can post text or images anonymously. We currently have five boards 
+			dedicated to a verity of topics. You don't need to register an account or fill out a forum before participating. </p>
+			<p class="two">Be sure to read the <a href="rules.html">rules</a> before posting! Also, be sure to check the <a href="faq.html">FAQ </a> if you have any questions about the site.</p>
+		</div>
+		<div class="boardsboxbar">
+		<div class="boardsboxcontent">
+<!-- Boards and stuff go here -->
+		</div>
+	</body>
+</HTML>
