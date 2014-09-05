@@ -1,0 +1,98 @@
+body {
+	background-image: url("http://i.imgur.com/MY9Vmcq.jpg");
+}
+/* To be used for what is graysonchan? */
+.infoboxbar {
+    background-color: 880000;
+	position: relative;
+    width: 748px;
+	height: 26px;
+	line-height: 0px;
+    margin-left: auto;
+    margin-right: auto;
+	top: 150px;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+
+}
+.infoboxcontent {
+    background-color: white;
+	position: relative;
+    width: 748px;
+	height: 119px;
+	left: -1px;
+	top: -1px;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	line-height: 18px;
+
+}
+/* To be used for boards */
+.boardsboxbar{
+	background-color: ffccaa;
+	position: relative;
+	width: 748px;
+	height: 26px;
+	line-height: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 20px;
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+.boardsboxcontent {
+    background-color: white;
+	position: relative;
+    width: 748px;
+	height: 400px;
+	left: -1px;
+	top: 26px;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	line-height: 18px;
+
+}
+/* Used in what is graysonchan */
+h1 {
+	text-align: left;
+	right: 20px;
+	position: top;
+	color:white;
+	font-family:Arial;
+	font-size: 18px;
+	margin-top: 12px;
+    margin-left: 2px;
+}
+p.one {
+	text-align: left;
+	right: 20px;
+	position: top;
+	font-family:Arial;
+	font-size: 14px;
+	margin-top: 15px;
+    margin-left: 2px;
+}
+p.two {
+	text-align: left;
+	right: 20px;
+	position: bottom;
+	font-family:Arial;
+	font-size: 14px;
+	margin-top: 43px;
+    margin-left: 2px;
+}
+/* No idea */
+div.pos_fixed {
+    position: fixed;
+    top: 30px;
+    right: 5px;
+    color: red;
+}
+/* I forgot what I was doing with this */
+#one {
+	background-color: #FF0000;
+}
